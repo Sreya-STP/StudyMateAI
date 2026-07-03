@@ -1,9 +1,28 @@
+
+# Environment variables
 .env
-__pycache__/
-outputs/
+
+# Virtual environments
+venv/
 .venv/
+
+# Python cache
+__pycache__/
+*.py[cod]
+
+# Generated outputs
+outputs/
+data/processed/
+
+# Gradio temporary files
+.gradio/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+outputs/
 sample.docx
 sample.pdf
-ui/gradio_ui.py
-venv
-data/processed
+ui/
