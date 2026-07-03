@@ -1,0 +1,7 @@
+.env
+__pycache__/
+outputs/
+.venv/
+sample.docx
+sample.pdf
+ui/gradio_ui.py
