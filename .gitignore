@@ -5,3 +5,5 @@ outputs/
 sample.docx
 sample.pdf
 ui/gradio_ui.py
+venv
+data/processed

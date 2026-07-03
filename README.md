@@ -175,7 +175,7 @@ StudyMateAI/
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/StudyMateAI.git
+git clone https://github.com/Sreya-STP/StudyMateAI.git
 cd StudyMateAI
 ```
 
